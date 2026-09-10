@@ -1,1 +1,1 @@
-# Vercle Deployment - Hello World App using FastAPI
+# Vercel Deployment - Hello World App using FastAPI
